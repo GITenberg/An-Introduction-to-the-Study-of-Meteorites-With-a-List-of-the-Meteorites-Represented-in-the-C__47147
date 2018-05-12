@@ -1,10 +1,16 @@
 _repo: An-Introduction-to-the-Study-of-Meteorites-With-a-List-of-the-Meteorites-Represented-in-the-C__47147
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47147-h/images/cover.jpg
 creator:
   author:
     agent_name: Fletcher, Lawrence
     gutenberg_agent_id: '36102'
     url: http://www.gutenberg.org/2009/agents/36102
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47147#An-Introduction-to-the-Study-of-Meteorites-With-a-List-of-the-Meteorites-Represented-in-the-C_
 gutenberg_issued: '2014-10-19'
 gutenberg_type: Text
 identifiers:
