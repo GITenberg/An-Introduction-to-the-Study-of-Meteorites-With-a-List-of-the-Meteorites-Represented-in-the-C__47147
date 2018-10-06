@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'An Introduction to the Study of Meteorites
 
   With a List of the Meteorites Represented in the Collection'
